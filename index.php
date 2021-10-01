@@ -35,7 +35,10 @@
 </form>
 
 </div>
-
+<br>
+<br><a href=setup.php> Create Databases </a>
+<br><a href=add_account.php> Add Account </a>
+<br><a href=list_account.php> List Account </a>
  
 </body>
 </html>
